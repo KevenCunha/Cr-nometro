@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: black;
+    text-align: center;
+    margin: auto;
+    font-family: tahoma, sans-serif;
+    background-image: url(https://sme.goiania.go.gov.br/conexaoescola/wp-content/uploads/2021/08/earth-1365995_1920-e1629317534508.jpg);
+    background-size: 1500px;
+}
+
+h1 {
+    height: 2em;
+    font-size: 50px;
+    color: white;
+    font-family: tahoma,sans-serif;
+}
+
+p{
+    color: white;
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+}
+
+div{
+    padding: 80px;
+    
+}
+
+.btn-start{
+    background: green;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-stop{
+    background: red;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-reset{
+    background: azure;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.numbers1{
+    color: rgb(3, 3, 250);
+    font-size: 56px;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Titan One', cursive;
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+}
+
+.numbers2 {
+    color: rgb(3, 3, 250);
+    font-size: 56px;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Titan One', cursive;
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+}
+
+footer{
+    color: white;
+  font-family: tahoma,sans-serif;
+  font-weight: bold;
+}
